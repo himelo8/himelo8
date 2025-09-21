@@ -1,49 +1,41 @@
-<!-- 
-  ██████╗  █████╗ ██╗  ██╗    ██╗  ██╗ █████╗ ██████╗ ██████╗ 
-  ██╔══██╗██╔══██╗██║ ██╔╝    ██║  ██║██╔══██╗██╔══██╗██╔══██╗
-  ██████╔╝███████║█████╔╝     ███████║███████║██████╔╝██████╔╝
-  ██╔══██╗██╔══██║██╔═██╗     ██╔══██║██╔══██║██╔══██╗██╔══██╗
-  ██████╔╝██║  ██║██║  ██╗    ██║  ██║██║  ██║██║  ██║██████╔╝
-  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ 
-  ——— SECTION 1: HERO — Clean, Organized, Full UX, All Working ———
--->
+<!-- ==================== SECTION 1: HERO ==================== -->
 
-<div align="center">
+<p align="center">
+  <!-- 1. Large Greeting -->
+  <h1>👋 Hi, I’m Himel</h1>
 
-  <!-- Name + Title -->
-  <h1 align="center">👋 Hi, I’m Himel</h1>
-  <h3 align="center">Developer & Designer — Turning Ideas into Beautiful, Functional Reality</h3>
+  <!-- 2. Subtitle / Role Tagline -->
+  <h3>Developer & Designer — Turning Ideas into Beautiful, Functional Reality</h3>
 
-  <br/>
+  <!-- 3. Dynamic Typing Animation -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00BFFF&width=500&lines=Designing+with+purpose;Coding+with+passion;Building+products+users+love" alt="Typing animation">
+  </p>
 
-  <!-- Dynamic Typing Bio -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Designing+with+purpose;Coding+with+passion;Building+products+users+love" alt="Dynamic Bio" />
+  <!-- 4. Profile Views Badge -->
+  <a href="https://github.com/Himel">
+    <img src="https://komarev.com/ghpvc/?username=Himel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  </a>
 
-  <br/><br/>
+  <!-- 5. Followers Badge -->
+  <a href="https://github.com/Himel?tab=followers">
+    <img src="https://img.shields.io/github/followers/Himel?label=Followers&style=social" alt="Followers">
+  </a>
 
-  <!-- Stats & Badges -->
-  <div align="center">
-    <a href="https://github.com/himelo8">
-      <img src="https://img.shields.io/badge/Profile%20Views-🚀-blue?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
-    </a>
-    <a href="https://github.com/himelo8?tab=followers">
-      <img src="https://img.shields.io/github/followers/himelo8?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=2088FF" alt="GitHub Followers"/>
-    </a>
-    <a href="https://github.com/himelo8?tab=repositories">
-      <img src="https://img.shields.io/badge/⭐-Explore%20My%20Repos-orange?style=for-the-badge" alt="Explore Repos"/>
-    </a>
-  </div>
+  <!-- 6. Explore Repos CTA Badge -->
+  <a href="https://github.com/Himel?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repos-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repos">
+  </a>
 
-  <br/>
-
-  <!-- Fun Fact / Personal Touch -->
-  <blockquote align="center">
-    💡 <em>“I speak the languages of pixels and logic — equally fluent in Figma & React.”</em>
+  <!-- 7. Personal Quote / Fun Fact -->
+  <blockquote style="color:#555;font-style:italic;">
+    “I speak the languages of pixels and logic — equally fluent in Figma & React.”
   </blockquote>
 
-  <br/>
+  <!-- 8. Animated Avatar GIF -->
+  <p>
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Animated Avatar" width="150" />
+  </p>
+</p>
 
-  <!-- Animated Avatar -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ1dGZyMjNkM3BjZzZ5Y2R0a3d5c2J5dWp3N2J5a2xqZ2Z1eWJ5c2R2dXZlMzZnMTh5d2JlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IdyAQJVN2kVPNUrojv/giphy.gif" width="120px" alt="Himel - Developer & Designer" />
-
-</div>
+<!-- ==================== END OF HERO ==================== -->
